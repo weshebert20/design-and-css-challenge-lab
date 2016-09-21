@@ -1,4 +1,4 @@
-#FEWD Week #2: Styling with CSS
+#Styling with CSS
 
 
 <br>
