@@ -27,7 +27,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - Build a website from a [design file](starter_code/design_file.txt)
 - Integrate advanced CSS properties
 - Use HTML5 structural elements
-- Use CSS Resets to "normalize" the rendering of your page across different browsers
+- Use CSS [Resets](http://meyerweb.com/eric/tools/css/reset/index.html) to "[normalize](http://necolas.github.io/normalize.css/)" the rendering of your page across different browsers
 - Use the Box Model to style element borders and structure your page
 
 
