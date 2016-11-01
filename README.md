@@ -9,7 +9,7 @@
 ###Description
 
 
-A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets. You need to take these files and turn it into a landing page.
+A hot, new Denver-based Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets - they're located in the repo. You need to take these files and turn it into a landing page:
 
 
 ![Relaxr Landing Page](https://i.imgur.com/aiNUaDW.png)
@@ -23,6 +23,9 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ###Real-World Applications
 
+The scenario presented to you in this lab is very similar to the scenario you would encounter everyday working in a web agency - you’re handed a design file, often with little to no context, with only the knowledge that the client wants it to look ‘good’. This is actually a more technical comp than you should expect. Since the client doesn’t know what a div is or what semibold is in numeric font weight, YOU need to act as an advisor for them and pick the best tool for the job.
+
+In completing this lab, you'll be performing these common daily dev tasks:
 
 - Build a website from a [design file](starter_code/design_file.txt)
 - Integrate advanced CSS properties
@@ -30,14 +33,14 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 - Use CSS [Resets](http://meyerweb.com/eric/tools/css/reset/index.html) to "[normalize](http://necolas.github.io/normalize.css/)" the rendering of your page across different browsers
 - Use the Box Model to style element borders and structure your page
 
-
-
 <br>
 
 ---
 
 
 ###Technical Requirements
+
+To complete this lab, you'll need to:
 
 - Use HTML5 structural elements (nav, header, footer)
 - Use a CSS Reset file in addition to your style.css file to style the page
@@ -50,6 +53,7 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 <br>
 
 ---
+
 
 ###Resources
 
@@ -70,4 +74,4 @@ A hot, new NY Tech Startup, Relaxr, has approached you to help them develop a ne
 
 ###Evaluation / Submission
 
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). Bonus sections are completely optional. The maximum possible score on this assignment is 12/12.
+Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1); exceeds expectations (2). The maximum possible score on this assignment is 12/12.
