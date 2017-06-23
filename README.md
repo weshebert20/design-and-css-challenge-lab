@@ -4,7 +4,7 @@
 
 ### Description
 
-A hot, new Denver-based Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets - they're located in the repo. You need to take these files and turn it into a landing page:
+A hot new Denver-based Tech Startup, Relaxr, has approached you to help them develop a new landing page for their company. They've handed you the [design file](starter_code/design_file.txt) for the site, along with the copy and assets - they're located in the repo. You need to take these files and turn them into a landing page:
 
 ![Relaxr Landing Page](https://i.imgur.com/aiNUaDW.png)
 
@@ -12,23 +12,23 @@ A hot, new Denver-based Tech Startup, Relaxr, has approached you to help them de
 
 ### Real-World Applications
 
-The scenario presented to you in this lab is very similar to the scenario you would encounter everyday working in a web agency - you’re handed a design file, often with little to no context, with only the knowledge that the client wants it to look ‘good’. This is actually a more technical comp than you should expect. Since the client doesn’t know what a div is or what semibold is in numeric font weight, YOU need to act as an advisor for them and pick the best tool for the job.
+The scenario presented to you in this lab is very similar to the scenario you would encounter everyday working in a web agency - you’re handed a design file, often with little to no context, with only the knowledge that the client wants it to look "good". This is actually a much better comp than you can typically expect. Since the client doesn’t know what a `div` is, or what semibold is in numeric font weight, YOU need to act as an advocate for them and pick the best tool for the job.
 
 In completing this lab, you'll be performing these common daily dev tasks:
 
 - Build a website from a [design file](starter_code/design_file.txt)
 - Integrate advanced CSS properties
 - Use HTML5 structural elements
-- Use CSS [Resets](http://meyerweb.com/eric/tools/css/reset/index.html) to "[normalize](https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css)" the rendering of your page across different browsers
+- Use CSS boilerplates to "[reset](http://meyerweb.com/eric/tools/css/reset/index.html)" or "[normalize](https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.css)" the rendering of your page across different browsers
 - Use the Box Model to style element borders and structure your page
 
 ### Technical Requirements
 
 To complete this lab, you'll need to:
 
-- Use HTML5 structural elements (nav, header, footer)
-- Use a CSS Reset file in addition to your style.css file to style the page
-- Use IDs and Classes to to select and style elements on the page
+- Use HTML5 structural elements (`nav`, `header`, `footer`)
+- Use a CSS Reset or Normalize file in addition to your `style.css` file
+- Use IDs and Classes to select and style elements on the page
 - Style your text with the Google Fonts provided by your style guide
 - Follow naming conventions, maintain consistency across .html and .css files and use best practices for naming IDs and Classes
 - Indent nested elements to increase your code's readability
@@ -41,7 +41,3 @@ To complete this lab, you'll need to:
 - [CSS Tricks difference between IDs and Classes](https://css-tricks.com/the-difference-between-id-and-class/)
 - [What is a CSS Reset?](http://www.cssreset.com/what-is-a-css-reset/)
 - Relaxr's [design file](starter_code/design_file)
-
-### Evaluation / Submission
-
-Students will create a new repository on GitHub called "homework-landingpage" and push their code to it when they are ready to submit. Instructional team should evaluate against the solution code and the student's use of technical elements. They will provide a numeric grade on a scale: does not meet expectations (0); meets expectations (1).  Any (0) grades will also contain specific instructions to get the grade up to a (1).
