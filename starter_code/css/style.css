@@ -49,7 +49,7 @@ body {
      color: #000;
      font-size: 12px;
      line-height: 1.4;
-     font-family: Helvetica, Arial, sans-serif;
+     font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -68,11 +68,134 @@ body {
 header {
   background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
   background-size: cover;
+  height: 100%;
+  padding: 0;
+}
+
+.companyName {
+  font-weight: 800;
+  font-size: 24px;
+  color: white;
+  margin: 0 auto;
+  padding-left: 80px;
+  padding-top: 20px;
+  letter-spacing: 1px;
+}
+
+.motto {
+  font-weight: 600;
+  color: white;
+  font-size: 24px;
+  letter-spacing: 1px;
+  text-align: center;
+  padding-top: 70px;
+  margin-bottom: 65px;
+}
+
+.getItNow {
+  font-weight: 800;
+  font-size: 14px;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 40px;
+  border-radius: 5px;
+  background-color: #f9e42e;
+  border: none;
+}
+
+.benefits {
+  font-weight: 600;
+  font-size: 20px;
+  padding-left: 80px;
+  padding-top: 30px;
+}
+
+.benefitsDescription {
+  padding-left: 80px;
+  font-weight: 300;
+  font-size: 13px;
+  display: inline-block;
+  width: 48%;
+}
+
+.benefitsList {
+  padding-left: 130px;
+  font-weight: 300;
+  font-size: 13px;
+  display: block;
+  width: 40%;
+  padding-bottom: 30px;
+}
+
+.quoteSection {
+  text-align: center;
+  background: url(../images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+  background-size: cover;
+  padding: 65px 300px;
+}
+
+.quote {
+  font-weight: 300;
+  font-style: italic;
+  font-size: 18px;
+  color: white;
+}
+
+.quoteOwner {
+  font-weight: 600;
+  font-size: 18px;
+  color: white;
+}
+
+.signUp {
+  background-color: #f9e42e;
+  background-size: cover;
+  height: 80px;
+  padding-top: 23px;
+}
+
+.signButton {
+  font-weight: 800;
+  font-size: 14px;
+  display: block;
+  margin: 0 auto;
+  padding: 8px 40px;
+  border-radius: 5px;
+  background-color: #033048;
+  border: none;
+  color: white;
 }
 
 footer {
-
+  background-color: #121212;
+  background-size: cover;
+  text-align: center;
+  margin: 0 auto;
+  height: 225px;
 }
+
+
+#footerName {
+  color: #f9e42e;
+  text-align: center;
+  padding-left: 0;
+  margin: 0 auto;
+}
+
+.social {
+  margin: 18px;
+  padding: 20px;
+  font-weight: 800;
+  font-size: 24px;
+}
+
+.footerCopy {
+  color: white;
+  font-weight: 300;
+  font-size: 9px;
+}
+
+
 
 /******************************************
 /* ADDITIONAL STYLES
