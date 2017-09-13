@@ -195,7 +195,10 @@ footer {
   font-size: 9px;
 }
 
-
+.socialButton {
+  background-color: #121212;
+  border-style: none;
+}
 
 /******************************************
 /* ADDITIONAL STYLES
